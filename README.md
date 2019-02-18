@@ -14,7 +14,7 @@ please cite us
 
 We are providing IFCC feature extraction in 2 languages
 
-1.python
+1.python<br></br
 2.bash
 
 Follow these instructions to extract IFCC features
@@ -22,13 +22,19 @@ Follow these instructions to extract IFCC features
 ##using kaldi
 
 Libraries to install
+
 	1.fftw3
+	
 	2.libsnd
+	
 after installing the library files comile the code ( ./compile.sh)
 
 for extracting IFCC features for .sph files
+
 	comput-ifcc.cpp
+	
 for extracting IFCC features for wav files
+
 	compute-ifcc_wav.scp
 
 use make_ifcc.sh code to extract IFCC features
@@ -40,10 +46,15 @@ change the comput-ifcc.cpp file for changing the number of coefficients
 python IFCC_features_extract.py <data> <log> <output> <num_jobs>
   
 example:
+
 where
+
 data       ----> data directory of wavfiles
+
 make_ifcc  ----> log directory for checking the progress of feature extraction
+
 ifcc       ----> output directory where the IFCC features will store
+
 num_jobs   ----> no of jobs
 
 python IFCC_features_extract.py data/train make_ifcc ifcc 1
@@ -51,6 +62,9 @@ python IFCC_features_extract.py data/train make_ifcc ifcc 1
 NOTE:-
 
 if you want to change output format, you can change output file format in IFCC_features_run.py
+
 you can change number of jobs according to your system
+
 wav.scp:
+
 	uttID channel wave_file_location
