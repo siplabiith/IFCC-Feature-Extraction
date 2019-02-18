@@ -43,7 +43,7 @@ change the comput-ifcc.cpp file for changing the number of coefficients
 
 ##using python
 
-python IFCC_features_extract.py <data> <log> <output> <num_jobs>
+	python IFCC_features_extract.py <data> <log> <output> <num_jobs>
   
 example:
 
