@@ -60,13 +60,12 @@ ifcc       ----> output directory where the IFCC features will store
 
 num_jobs   ----> no of jobs
 
-python IFCC_features_extract.py data/train make_ifcc ifcc 1
+	python IFCC_features_extract.py data/train make_ifcc ifcc 1
 
-NOTE:-
+## NOTE:-
 
 if you want to change output format, you can change output file format in IFCC_features_run.py
-
-you can change number of jobs according to your system
+and number of jobs according to your system
 
 wav.scp:
 
