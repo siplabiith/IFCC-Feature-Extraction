@@ -1,5 +1,7 @@
 # IFCC-Feature-Extraction
 
+# Copyright Speech Information Processing Lab, IIT Hyderabad , Inc.  All Rights Reserved.
+
 If you use this code 
 
 please cite us
@@ -28,7 +30,7 @@ Libraries to install
 	
 	2.libsnd
 	
-after installing the library files comile the code ( ./compile.sh)
+after installing the library files compile the code ( ./compile.sh)
 
 for extracting IFCC features for .sph files
 
