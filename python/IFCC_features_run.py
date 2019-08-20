@@ -1,4 +1,4 @@
-# Copyright Speech Informstion Lab, IIT Hyderabad , Inc.  All Rights Reserved.
+# Copyright Speech Information Processing Lab, IIT Hyderabad .  All Rights Reserved.
 
 #code for extracting IFCC features
 # importing the modules 
