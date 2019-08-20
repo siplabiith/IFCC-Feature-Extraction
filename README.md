@@ -44,7 +44,7 @@ use make_ifcc.sh code to extract IFCC features
 
 change the comput-ifcc.cpp file for changing the number of coefficients
 
-## using Python
+## Using Python
 
 	python IFCC_features_extract.py <data> <log> <output> <num_jobs>
   
