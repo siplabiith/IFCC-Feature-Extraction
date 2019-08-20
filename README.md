@@ -22,7 +22,7 @@ We are providing IFCC feature extraction in 2 languages
 
 Follow these instructions to extract IFCC features
 
-##using kaldi
+## Using Kaldi
 
 Libraries to install
 
@@ -44,13 +44,13 @@ use make_ifcc.sh code to extract IFCC features
 
 change the comput-ifcc.cpp file for changing the number of coefficients
 
-##using python
+## using Python
 
 	python IFCC_features_extract.py <data> <log> <output> <num_jobs>
   
 example:
 
-where
+Where
 
 data       ----> data directory of wavfiles
 
