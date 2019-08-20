@@ -1,6 +1,6 @@
 # IFCC-Feature-Extraction
 
-### Copyright Speech Information Processing Lab, IIT Hyderabad , Inc.  All Rights Reserved.
+### Copyright Speech Information Processing Lab, IIT Hyderabad .  All Rights Reserved.
 
 If you use this code 
 
