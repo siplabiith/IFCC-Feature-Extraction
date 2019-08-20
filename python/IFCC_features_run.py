@@ -1,3 +1,5 @@
+# Copyright Speech Informstion Lab, IIT Hyderabad , Inc.  All Rights Reserved.
+
 #code for extracting IFCC features
 # importing the modules 
 import datetime
