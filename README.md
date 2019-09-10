@@ -8,7 +8,7 @@ please cite us
 
 # References
 
-<a href="https://www.researchgate.net/publication/283203401_Epoch_Extraction_by_Phase_Modelling_of_Speech_Signals">1. Karthika Vijayan and K Sri Rama Murty, "Epoch Extraction by Phase Modelling of Speech Signals," Circuits, Systems, and Signal Processing, vol. 35, no. 7, pp. 2584-2609, July 2016</a>
+<a href="https://www.researchgate.net/publication/297586806_Significance_of_analytic_phase_of_speech_signals_in_speaker_verification">Karthika Vijayan, P R Reddy and K Sri Rama Murty, "Significance of analytic phase of speech signals in speaker verification," Speech Communication (Elsevier), Jun. 2016.</a>
   
 <a href="https://ieeexplore.ieee.org/document/8308665">2. Shekhar Nayak, Saurabhchand Bhati and K Sri Rama Murty, "An Investigation into Instantaneous Frequency Estimation Methods for Improved Speech Recognition Features," in Proc. IEEE Global Conference on Signal and Information Processing (GlobalSIP), Nov. 14-16, 2017, Montreal, Canada.</a>
 
